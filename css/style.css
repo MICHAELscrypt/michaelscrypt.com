@@ -1,0 +1,16 @@
+.button__icon {
+  width: 1.4em;
+  height: 1.4em;
+  margin-right: 0.5em;
+
+}
+
+.button_with_icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  font-weight:bold;
+  text-transform: none;
+}
