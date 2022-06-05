@@ -14,3 +14,17 @@
   font-weight:bold;
   text-transform: none;
 }
+
+.profilepic {
+    width: 150px;
+    border-radius: 20%;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+
+.projects_with_description {
+  font-size: 18px;
+}
+
+a {
+  color: #0000EE;
+}
