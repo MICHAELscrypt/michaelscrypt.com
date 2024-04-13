@@ -4,6 +4,12 @@
   margin-right: 0.5em;
 }
 
+.button__icon_x {
+  width: 1.4em;
+  height: 1.1em;
+  margin-right: 0.5em;
+}
+
 .button_with_icon {
   display: flex;
   flex-direction: row;
